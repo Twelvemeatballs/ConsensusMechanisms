@@ -1,23 +1,39 @@
 “Can you at least close the laptop while we eat?” 
-“I just want to watch one more block finalize,” he says, not looking up. “Real-time proving’s live. It’s happening right now.”
+
+“I missed three attestations this morning. I think the sync daemon failed.“
+
+“Your not speaking English again.”
+
+
+“The node syncs its clock via NTP but it’s not working.”
+
+“Your computer was late?”
+
+“By 0.17 seconds. That’s the problem.”
 
 She sits. Forks a bit of salad. Waits.
 
 The screen reflects green and purple in his glasses.
 
-[tech talk]. “You realise what that means?”
+“If the daemon doesn’t resynch, I’ll keep losing slots. You realise what that means?”
 
 “I realize my pasta’s cold.”
 
-“Native. Based.” What’s he talk about?
+“I’m bleeding ETH for every missed attestation.”
+
+“There’s a penalty every epoch.”
+
+“So it costs you money?”
+
+“It costs the network.”
 
 “God, you are doing the meme voice.”
 
-He doesn’t hear her. “Like full SNARK integration at block-level proving. We crossed the line. Real-time zk proofs on mainnet.”
+He doesn’t hear her. “Honestly, I don’t know that I’m up to running a full validator node. If we had proper light clients I’d jump at it. Like the guy doing a proof-of-concept for smart TVs.”
 
-“Is this the part where you tell me my toothbrush could validate?”
+“Joy. I can’t wait for you to tell me that my toothbrush needs to validate.”
 
-“That’s not a joke. There’s an open bounty on sk light clients for household appliances.”
+“Verify. That’s not a joke. There’s an open bounty on zk light clients for household appliances.”
 
 She chews in silence. Then, quietly. 
 
@@ -42,6 +58,9 @@ She walks out. The door clicks.
 
 …
 
-He stares at it. 
-Then reloads the page.
-Just in case this time, something different happens. 
+He stares at the door. 
+
+Then he reloads the validator dashboard. 
+
+Just in case the next block changes everything. 
+
