@@ -10,5 +10,9 @@
 
 - Simulation theory and the broken coffee maker (written 4am Sunday on two hours sleep)
 
+- He stares at it. 
+Then reloads the page.
+Just in case this time, something different happens. 
+
 
   
