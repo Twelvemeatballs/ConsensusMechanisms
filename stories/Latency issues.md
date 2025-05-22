@@ -55,12 +55,12 @@ She stands, takes her plate. “You’re in love with latency stats.”
 
 She walks out. The door clicks.
 
+He stares at the door, then turns back to the screen.
 
-…
+Types: sudo systemctl restart ntpd
 
-He stares at the door. 
+He watches the cursor blink for a moment, then runs the command again. Just in case.
 
-Then he reloads the validator dashboard. 
+The node re-synchronizes. The chair across from him is still empty.
 
-Just in case the next block changes everything. 
-
+One of them, at least, is back in consensus.
