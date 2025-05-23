@@ -1,6 +1,6 @@
 “Can you at least close the laptop while we eat?” 
 
-“I missed three attestations this morning. I think the sync daemon failed.“
+“I missed three attestations this afternoon. I think the sync daemon failed.“
 
 “Your not speaking English again.”
 
