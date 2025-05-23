@@ -1,6 +1,6 @@
 ## Everyone Got Something But You  
 
-Travel Warning: Q3 Advisory  
+⚠ Travel Warning: Q3 Advisory  
 
 Do  not attempt to cross the claim fields unprepared. The terrain appears welcoming: flat, accessible, even generous. This is a lie. The air is full of expectations and wallet dust. The locals are feral. The newcomers are worse.  
 
