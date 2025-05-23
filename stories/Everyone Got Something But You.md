@@ -18,9 +18,9 @@ One man spun up 214 wallets in a single night and still qualified for nothing. A
 
 They say that if you idle too long, you become a watch-only address in your own story.  
 
-The ghosts wander still, insisting that they were early contributors, still clutching wallets that once held weight. Men and women who dreamed of lambos and received only sodium packets. Erased. Misaligned. They wander the claim fields looking for signs of recognition.   
+The ghosts wander still, insisting that they were early contributors, still clutching wallets that once held weight. Men and women who dreamed of lambos and received only sodium packets. Erased. Misaligned. Haunts wandering the claim fields looking for signs of recognition.   
 
-The tokens unlocked too late and meant too little. They still exist, somewhere.  
+The tokens unlocked too late and meant too little.
 
 The gardens are long gone. Launch promises scatter across the dust like tumbleweeds.  
 
