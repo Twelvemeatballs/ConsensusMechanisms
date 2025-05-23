@@ -41,7 +41,7 @@ She chews in silence. Then, quietly.
 
 “What?”
 
-“Your toothbrush. If it runs a client. Would it notice if I walked out?”
+“The toothbrush. If it runs a client. Would it notice if I walked out?”
 
 He finally looks up. Blinks. Frowns.
 
