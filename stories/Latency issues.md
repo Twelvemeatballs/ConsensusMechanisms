@@ -5,7 +5,7 @@
 “Your not speaking English again.”
 
 
-“The node syncs its clock via NTP but it’s not working.”
+“The node syncs its clock via NTP but it’s not working. The clock is slow.”
 
 “Your computer was late?”
 
