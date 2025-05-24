@@ -14,7 +14,7 @@ Someone lived here, once. Briefly. Airdrops simply appeared, like wild garlic in
 
 Then the pilgrims began arriving, clutching half-completed quests and spreadsheets of transaction hashes. Some kept receipts. Others brought long Twitter threads in defence of their devotion. It didn't matter. The logic had already calcified. If you were miscategorised, you stayed that way.  
 
-One man spun up 214 wallets in a single night and still qualified for nothing. Another posted just a thank-you gif and received governance. No one knows why.  They heard the call. They answered. But mostly what came back was silence and a handful of worthless tokens.  
+One man spun up 214 wallets in a single night and still qualified for nothing. Another posted just a thank-you gif and received governance. No one knows why.  But mostly what came back was silence and a handful of worthless tokens.  
 
 They say that if you idle too long, you become a watch-only address in your own story.  
 
