@@ -22,6 +22,6 @@ The ghosts wander still, insisting that they were early contributors, still clut
 
 The tokens unlocked too late and meant too little.
 
-The gardens are long gone. Launch promises scatter across the dust like tumbleweeds.  
+The gardens are long gone. Launch promises scatter across the dusty plains like tumbleweeds.  
 
 The claim fields know who you are. And they're not coming back for you.  
