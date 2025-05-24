@@ -20,4 +20,4 @@ The ghosts wander still, clutching wallets that once held weight, insisting that
 
 The gardens are long gone. Launch promises scatter across the dusty plains like tumbleweeds. 
 
-The claim fields know who you are. And they're not coming back for you.  
+The claim fields don't know who you are. No one is coming back for you.  
