@@ -2,7 +2,7 @@
 
 “I missed three attestations this afternoon. I think the sync daemon failed.“
 
-“Your not speaking English again.”
+“You're not speaking English again.”
 
 
 “The node syncs its clock via NTP but it’s not working. The clock is slow.”
