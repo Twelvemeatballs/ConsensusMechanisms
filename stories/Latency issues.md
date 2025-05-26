@@ -1,3 +1,8 @@
+(A story about sync daemons and emotional latency.) 
+
+# Latency Issues
+
+
 “Can you at least close the laptop while we eat?” 
 
 “I missed three attestations this afternoon. I think the sync daemon failed.“
