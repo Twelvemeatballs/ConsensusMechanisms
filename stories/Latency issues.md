@@ -5,7 +5,7 @@
 
 “Can you at least close the laptop while we eat?” 
 
-“I missed three attestations while I was at work. I think the sync daemon failed."
+“I missed three attestations while I was at work. Might be a corrupted time source."
 
 “You're not speaking English again.”
 
