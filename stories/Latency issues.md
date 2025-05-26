@@ -1,4 +1,4 @@
-(A story about sync daemons and emotional latency.) 
+(A story about sync daemons and time-out errors.) 
 
 # Latency Issues
 
