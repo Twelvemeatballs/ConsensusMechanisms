@@ -1,11 +1,15 @@
+(A story about sync daemons and time-out errors.) 
+
+# Latency Issues
+
+
 “Can you at least close the laptop while we eat?” 
 
-“I missed three attestations this afternoon. I think the sync daemon failed.“
+“I missed three attestations while I was at work. Might be a corrupted time source."
 
-“Your not speaking English again.”
+“You're not speaking English again.”
 
-
-“The node syncs its clock via NTP but it’s not working. The clock is slow.”
+“The node syncs its clock via NTP but it’s not working." He glances up at her. "The clock is slow.”
 
 “Your computer was late?”
 
@@ -19,33 +23,27 @@ The screen reflects green and purple in his glasses.
 
 “I realize my pasta’s cold.”
 
-“I’m bleeding ETH for every missed attestation.”
-
-“There’s a penalty every epoch.”
+“I’m bleeding ETH for every missed attestation.” 
 
 “So it costs you money?”
 
-“It costs the network.”
+His eyes remain fixed on the laptop screen. “It costs the network.”
 
-“God, you are doing the meme voice.”
+“God forbid the network suffer," she says, rolling her eyes. 
 
-He doesn’t hear her. “Honestly, I don’t know that I’m up to running a full validator node. If we had proper light clients I’d jump at it. Like the guy doing a proof-of-concept for smart TVs.”
+He doesn’t notice. “Honestly, I don’t know that I want to keep running a full validator node. If we had proper light clients, I’d jump at it. Like the guy doing proof-of-concept for smart TVs.”
 
 “Joy. I can’t wait for you to tell me that my toothbrush needs to validate.”
 
-“Verify. That’s not a joke. There’s an open bounty on zk light clients for household appliances.”
+“Verify. That’s not a joke. There’s an open bounty on zk light clients for household appliances.” 
 
-She chews in silence. Then, quietly. 
-
-“Would it notice if I left?”
+She chews in silence. Then, quietly. “Would it notice if I left?”
 
 “What?”
 
 “The toothbrush. If it runs a client. Would it notice if I walked out?”
 
-He finally looks up. Blinks. Frowns.
-
-“It’s just… a hardware joke.”
+He finally looks up. Blinks. Frowns. “It’s just… a hardware joke.”
 
 She stands, takes her plate. “You’re in love with latency stats.”
 
